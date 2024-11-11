@@ -1,0 +1,20 @@
+{
+  "URL": "https://www.telerik.com/support/demos",
+
+  "Login" : {
+  "validCredentials": {
+    "Email": "test1@gmail.com"
+  }
+  },
+
+  "RegisterForm": {
+    "validCredentials": {
+      "password": "noTrial897!",
+      "firstName": "Nouran",
+      "lastName": "Hesham",
+      "company": "VOIS",
+      "phone": "01012345478",
+      "country": "Egypt"
+    }
+  }
+}
