@@ -47,7 +47,7 @@ public class RegisterFormPage extends MethodHandles {
         click(createAccountBtn,3);
         return new RegisterConfirmationPage(driver);
     }
-
+//test register
     public void enterFields(String password,String firstName,String lastName,String company,String phone,String country){
        insertPasswordInput(password);
        insertFirstNameInput(firstName);
